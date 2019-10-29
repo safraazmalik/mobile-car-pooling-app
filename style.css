@@ -176,7 +176,13 @@ input[type=reject]{
     border: 4px solid rgb(252, 24, 7);
 }
 
-li{font-style:italic}
+.responsive
+{     
+    width: 100%;
+    height: 100%;
+}
+
+
 
 
 
